@@ -1,0 +1,8 @@
+{
+  "name": "kelao-ai-ultra",
+  "version": "3.0.0",
+  "type": "module",
+  "dependencies": {
+    "replicate": "^0.30.0"
+  }
+}
